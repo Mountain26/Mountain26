@@ -26,16 +26,16 @@
 
 ## 💫 Về bản thân mình (About Me)
 
-Xin chào! Mình là **Nguyễn Đình Sơn**, một lập trình viên đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**.
-Mình là sinh viên ngành Công nghệ Thông tin tại PTIT, luôn đam mê việc xây dựng hệ thống phần mềm hiệu năng cao và giải quyết các bài toán kiến trúc phân tán.
+Xin chào! Mình là **Nguyễn Đình Sơn**, một lập trình viên và chuyên gia SEO đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**. Mình là sinh viên ngành Công nghệ Thông tin tại PTIT, sở hữu thế mạnh kết hợp giữa tư duy phát triển phần mềm backend và tối ưu hóa hệ thống tìm kiếm web.
 
-- 💻 Chuyên môn chính của mình là phát triển **Backend** với **Java**, **Spring Boot** và kiến trúc **Microservices**.
-- 🔭 Hiện tại mình đang tập trung nghiên cứu sâu hơn về **Spring Cloud (Eureka, Gateway, Config Server)**, tối ưu hiệu năng và xây dựng các hệ thống phân tán.
-- 🤝 Mình luôn sẵn sàng học hỏi, trao đổi kiến thức và hợp tác trong các dự án công nghệ thú vị.
+- 💻 Chuyên môn kỹ thuật: Phát triển **Backend** với **Java**, **Spring Boot**, kiến trúc **Microservices** và **Spring Cloud (Eureka, Gateway, Config Server)**.
+- 📈 Chuyên môn Digital: Thành thạo **SEO toàn diện (On-page/Technical SEO)**, tối ưu hóa cấu trúc website, phân tích search intent và triển khai chiến dịch digital marketing hiệu quả.
+- 🔭 Hiện tại mình đang tập trung nâng cao chuyên môn về hệ thống phân tán và tối ưu hiệu năng ứng dụng web quy mô lớn.
+- 🤝 Mình luôn sẵn sàng hợp tác trong các dự án công nghệ và tối ưu hóa sản phẩm.
 - ⚡ **Fun fact:**
-    - ☕ Đam mê code xuyên màn đêm cùng những tách cà phê.
-    - 🚀 Thích mày mò tối ưu hóa hệ thống và tìm hiểu các công nghệ mới.
-- 💬 Câu châm ngôn yêu thích: *"It works on my machine"*
+    - ☕ Đam mê code xuyên màn đêm kết hợp tối ưu technical SEO.
+    - 🚀 Thích mày mò giải quyết các bài toán kiến trúc phần mềm và đưa website lên top tìm kiếm.
+- 💬 Câu châm ngôn yêu thích: *"Code clean, rank top, scale fast."*
 
 <br>
 
