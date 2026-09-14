@@ -121,26 +121,10 @@ Mình là sinh viên ngành Công nghệ Thông tin tại PTIT, luôn đam mê v
 
 ---
 
-## 🏆 Cúp vinh danh GitHub (Trophies)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mountain26&theme=pastel&column=-1&no-frame=true" />
-</p>
-<br>
-
 ## 📊 Thống kê hoạt động (GitHub Stats)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mountain26&theme=pastel&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<br>
-
-## 📈 Biểu đồ Đóng góp (Activity Graph)
-
-<div align="center">
-  <a href="https://github.com/Mountain26">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mountain26&theme=pastel&hide_border=true&bg_color=ffffff&color=87CEEB&line=87CEEB&point=FFFFFF" />
-  </a>
 </div>
 
 <br>
