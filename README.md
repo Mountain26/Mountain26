@@ -101,19 +101,19 @@ Xin chào! Mình là **Nguyễn Đình Sơn**, một CODER và SEOER đầy nhi�
 ## 🔥 Dự án nổi bật (Featured Projects)
 
 <div align="center">
-  <a href="https://github.com/Mountain26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=FinalProjectC_Eng_KS24B_NguyenDinhSon_BankAccount&theme=pastel&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/Mountain26/Project_Vivutoday_BookingCar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=Project_Vivutoday_BookingCar&theme=pastel&hide_border=true" alt="Vivutoday BookingCar" />
   </a>
-  <a href="https://github.com/Mountain26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=Final_Project_Java_Service_NguyenDinhSon&theme=pastel&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/Mountain26/CinemaBookingManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=CinemaBookingManager&theme=pastel&hide_border=true" alt="Cinema Booking Manager" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Mountain26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=Project_Agile-Scrum_NguyenDinhSon_CNTT2&theme=pastel&hide_border=true" alt="Project 3" />
+  <a href="https://github.com/Mountain26/Final_Project-Java_Service_NguyenDinhSon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=Final_Project-Java_Service_NguyenDinhSon&theme=pastel&hide_border=true" alt="Java Service Security" />
   </a>
-  <a href="https://github.com/Mountain26">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=FinalProject_Restaurant-Manager-System_SRS_NguyenDinhSon_CNTT2&theme=pastel&hide_border=true" alt="Project 4" />
+  <a href="https://github.com/Mountain26/FinalProjectC_Eng_KS24B_NguyenDinhSon_BankAccount">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mountain26&repo=FinalProjectC_Eng_KS24B_NguyenDinhSon_BankAccount&theme=pastel&hide_border=true" alt="Bank Account Project" />
   </a>
 </div>
 
