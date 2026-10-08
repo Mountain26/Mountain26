@@ -40,7 +40,7 @@
 
 ## 💫 Về bản thân mình (About Me)
 
-Xin chào! Mình là **Nguyễn Đình Sơn**, một CODER và SEOER đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**. Mình là sinh viên ngành Công nghệ Thông tin tại PTIT, sở hữu thế mạnh kết hợp giữa tư duy phát triển phần mềm backend, tối ưu hóa hệ thống tìm kiếm web và phát triển thứ hạng cho trang web.
+Xin chào! Mình là **Nguyễn Đình Sơn** Sơn là núi hay mình còn được mọi người gọi là Mountain, một CODER và SEOER đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**. Mình là sinh viên ngành Công nghệ Thông tin tại PTIT, sở hữu thế mạnh kết hợp giữa tư duy phát triển phần mềm backend, tối ưu hóa hệ thống tìm kiếm web và phát triển thứ hạng cho trang web.
 
 - 💻 Chuyên môn kỹ thuật: Phát triển **Backend** với **Java**, **Spring Boot**, kiến trúc **Microservices** và **Spring Cloud (Eureka, Gateway, Config Server)**.
 - 📈 Chuyên môn Digital: Thành thạo **SEO toàn diện (On-page/Technical SEO)**, tối ưu hóa cấu trúc website, phân tích search intent và triển khai chiến dịch digital marketing hiệu quả.
