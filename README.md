@@ -1,3 +1,21 @@
+<div align="center">
+<pre>
+███╗   ███╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗ █████╗ ██╗███╗   ██╗
+████╗ ████║██╔═══██╗██║   ██║████╗  ██║╚══██╔══╝██╔══██╗██║████╗  ██║
+██╔████╔██║██║   ██║██║   ██║██╔██╗ ██║   ██║   ███████║██║██╔██╗ ██║
+██║╚██╔╝██║██║   ██║██║   ██║██║╚██╗██║   ██║   ██╔══██║██║██║╚██╗██║
+██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ██║  ██║██║██║ ╚████║
+╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+&nbsp;
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
+</pre>
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;I'm+Nguyen+Dinh+Son;Java+%26+Backend+Developer" alt="Typing SVG" />
 </h1>
@@ -19,6 +37,36 @@
     <img src="https://img.shields.io/badge/GitHub-%2312100e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<div align="center">
+<pre>
+            ;;,, ,;,|g;~,,
+         ,g@@@@@@l&amp;$$$@|,w$$@gy,
+        $@@@@@@@@@@$@@@@@@@@$$MW$k
+       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$
+     g@llM**'''||%@@@@@$@@$@@@@@@@L$&
+   @$&$F         ''T%M$@@@@@@@@@@@$@$@
+  @@@@F              ']@@@@@@$$@$@@@@
+  @@@$L               |$@@@$$l$@@@@$F
+ ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@
+  %$@@@$}',,gg@||@@@@l@g@ggg|l$&$@@$
+  ]@@@@@'"*TTTTT'F  ]Wl|||''"'$]@@@@
+   $$@M$       ,#    ]gg,,,,,.r'$@$
+    &$L        ' ,, ,,,'T''`    $$L
+     lL         T"||||!   `-    l"'
+     ' |        '||l||||"|L|  L `
+      ''   '|L++=*****""*"||` L|
+        |           ,,      |||F
+        '         |||||||| ||l$
+          !                |l&L
+           '!,       |||,||@M|L
+            ||l&$@$$@$$$@$MT|||
+         |    |||lll$$llll|||||L
+    ,;y@        ||||||l||@|||||l
+,g$@$$$@         |||||||||||||||| $g,
+$$$$$$$$@    |    |||||||||||||| |$$@g
+</pre>
+</div>
 
 <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk5bzllbXU1MzZ3cHJoZHBkNTEwazFsNzRiZTQyc2w4c3FwYzk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BjW0LNnhSyurA6Xw8/giphy.gif" alt="Cute cat typing" />
 
@@ -113,7 +161,12 @@ Xin chào! Mình là **Nguyễn Đình Sơn**, một CODER và SEOER đầy nhi�
 ## 📊 Thống kê hoạt động (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mountain26&theme=pastel&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mountain26&show_icons=true&count_private=true&hide_border=true&bg_color=E3F4FF&title_color=0284C7&text_color=24292F&icon_color=0284C7&border_radius=10" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Mountain26&hide_border=true&background=E3F4FF&stroke=0284C7&ring=87CEEB&fire=0284C7&currStreakNum=0369A1&currStreakLabel=0284C7&sideNums=0369A1&sideLabels=0284C7&dates=57606A&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mountain26&layout=compact&hide_border=true&bg_color=E3F4FF&title_color=0284C7&text_color=24292F&border_radius=10" alt="Top Languages" />
 </div>
 
 <br>
