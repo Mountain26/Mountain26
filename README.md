@@ -16,10 +16,6 @@
 </pre>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;I'm+Nguyen+Dinh+Son;Java+%26+Backend+Developer" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <a href="https://github.com/Mountain26">
     <img src="https://komarev.com/ghpvc/?username=Mountain26&label=Profile%20Views&color=87CEEB&style=flat" alt="Profile views" />
