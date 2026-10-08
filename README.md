@@ -34,36 +34,6 @@
   </a>
 </p>
 
-<div align="center">
-<pre>
-            ;;,, ,;,|g;~,,
-         ,g@@@@@@l&amp;$$$@|,w$$@gy,
-        $@@@@@@@@@@$@@@@@@@@$$MW$k
-       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$
-     g@llM**'''||%@@@@@$@@$@@@@@@@L$&
-   @$&$F         ''T%M$@@@@@@@@@@@$@$@
-  @@@@F              ']@@@@@@$$@$@@@@
-  @@@$L               |$@@@$$l$@@@@$F
- ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@
-  %$@@@$}',,gg@||@@@@l@g@ggg|l$&$@@$
-  ]@@@@@'"*TTTTT'F  ]Wl|||''"'$]@@@@
-   $$@M$       ,#    ]gg,,,,,.r'$@$
-    &$L        ' ,, ,,,'T''`    $$L
-     lL         T"||||!   `-    l"'
-     ' |        '||l||||"|L|  L `
-      ''   '|L++=*****""*"||` L|
-        |           ,,      |||F
-        '         |||||||| ||l$
-          !                |l&L
-           '!,       |||,||@M|L
-            ||l&$@$$@$$$@$MT|||
-         |    |||lll$$llll|||||L
-    ,;y@        ||||||l||@|||||l
-,g$@$$$@         |||||||||||||||| $g,
-$$$$$$$$@    |    |||||||||||||| |$$@g
-</pre>
-</div>
-
 <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk5bzllbXU1MzZ3cHJoZHBkNTEwazFsNzRiZTQyc2w4c3FwYzk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BjW0LNnhSyurA6Xw8/giphy.gif" alt="Cute cat typing" />
 
 <br>
