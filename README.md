@@ -35,7 +35,7 @@ Xin chào! Mình là **Nguyễn Đình Sơn**, một CODER và SEOER đầy nhi�
 - ⚡ **Fun fact:**
     - ☕ Đam mê code xuyên màn đêm kết hợp tối ưu technical SEO.
     - 🚀 Thích mày mò giải quyết các bài toán kiến trúc phần mềm và đưa website lên top tìm kiếm.
-- 💬 Câu châm ngôn yêu thích: *"Code clean, rank top, scale fast."*
+- 💬 Câu châm ngôn yêu thích: *"It's works on my machine"*
 
 <br>
 
