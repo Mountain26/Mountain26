@@ -38,7 +38,7 @@
 
 <br>
 
-## 💫 Về bản thân mình (About Me)
+## 💫 Về bản thân mình
 
 Xin chào! Mình là **Nguyễn Đình Sơn** Sơn là núi hay mình còn được mọi người gọi là Mountain, một CODER và SEOER đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**. Mình là sinh viên ngành Công nghệ Thông tin tại PTIT, sở hữu thế mạnh kết hợp giữa tư duy phát triển phần mềm backend, tối ưu hóa hệ thống tìm kiếm web và phát triển thứ hạng cho trang web.
 
@@ -55,7 +55,7 @@ Xin chào! Mình là **Nguyễn Đình Sơn** Sơn là núi hay mình còn đư�
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ (Tech Stack)
+## 🛠️ Kỹ năng & Công nghệ
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Xin chào! Mình là **Nguyễn Đình Sơn** Sơn là núi hay mình còn đư�
 
 ---
 
-## 🌱 Trọng tâm học tập hiện tại (Currently Learning)
+## 🌱 Trọng tâm học tập hiện tại
 
 <div align="center">
   <p>Hiện tại, mình đang tập trung nâng cao chuyên môn về <b>Microservices Architecture</b>, hệ thống phân tán và các giải pháp tối ưu hóa hiệu năng backend.</p>
@@ -112,7 +112,7 @@ Xin chào! Mình là **Nguyễn Đình Sơn** Sơn là núi hay mình còn đư�
 
 ---
 
-## 🔥 Dự án nổi bật (Featured Projects)
+## 🔥 Dự án nổi bật
 
 
 - 🚗 **[Project_Vivutoday_BookingCar](https://github.com/Mountain26/Project_Vivutoday_BookingCar)**
@@ -123,25 +123,6 @@ Xin chào! Mình là **Nguyễn Đình Sơn** Sơn là núi hay mình còn đư�
 <br>
 
 ---
-
-## 📊 Thống kê hoạt động (GitHub Stats)
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mountain26&show_icons=true&count_private=true&hide_border=true&bg_color=E3F4FF&title_color=0284C7&text_color=24292F&icon_color=0284C7&border_radius=10" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=Mountain26&hide_border=true&background=E3F4FF&stroke=0284C7&ring=87CEEB&fire=0284C7&currStreakNum=0369A1&currStreakLabel=0284C7&sideNums=0369A1&sideLabels=0284C7&dates=57606A&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mountain26&layout=compact&hide_border=true&bg_color=E3F4FF&title_color=0284C7&text_color=24292F&border_radius=10" alt="Top Languages" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <br>
 
