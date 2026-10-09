@@ -49,7 +49,7 @@ Xin chào! Mình là **Nguyễn Đình Sơn** (hay còn gọi là **Mountain** -
 - ⚡ **Fun fact:**
     - ☕ Đam mê code xuyên màn đêm, viết pipeline CI/CD và mày mò tích hợp các mô hình AI mới.
     - 🚀 Thích mày mò giải quyết các bài toán kiến trúc phần mềm phức tạp và đưa sản phẩm lên production mượt mà.
-- 💬 Câu châm ngôn yêu thích: *"It works on my machine... and now on every machine with Docker & CI/CD!"*
+- 💬 Câu châm ngôn yêu thích: *"It works on my machine..."*
 
 <br clear="right" />
 
