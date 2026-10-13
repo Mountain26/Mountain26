@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Mountain26">
-    <img src="https://komarev.com/ghpvc/?username=Mountain26&label=Profile%20Views&color=87CEEB&style=flat" alt="Profile views" />
+    <img src="c" alt="Profile views" />
   </a>
   <a href="https://github.com/Mountain26?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mountain26?style=social">
@@ -36,7 +36,7 @@
 
 ## 💫 Về bản thân mình
 
-<img align="right" width="340" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk5bzllbXU1MzZ3cHJoZHBkNTEwazFsNzRiZTQyc2w4c3FwYzk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BjW0LNnhSyurA6Xw8/giphy.gif" alt="Cute cat typing" />
+<img align="right" width="340" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R5MjAzZG0zdXd5NzBrNTBsbnltbGlzNnI3MzNzNjg5NTBuemk3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="Cute cat typing" />
 
 Xin chào! Mình là **Nguyễn Đình Sơn** (hay còn gọi là **Mountain** - *Sơn là Núi* 🏔️), một kỹ sư phần mềm đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**. Mình là sinh viên ngành Công nghệ Thông tin tại **PTIT**, sở hữu thế mạnh kết hợp giữa kiến trúc hệ thống **Backend**, quy trình tự động hóa **DevOps**, tích hợp ứng dụng **AI** thông minh và tối ưu hóa hiệu năng **SEO/Web**.
 
