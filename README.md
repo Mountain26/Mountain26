@@ -36,7 +36,7 @@
 
 ## 💫 Về bản thân mình
 
-<img align="right" width="340" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R5MjAzZG0zdXd5NzBrNTBsbnltbGlzNnI3MzNzNjg5NTBuemk3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" alt="Cute cat typing" />
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNwemY3N3kxeHozd2VwOXBodXNlc2psM3Vpa3Vya2EzZmZudjAxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3xz2Bw12fe9iyG06v6/giphy.gif" alt="Cute cat typing" />
 
 Xin chào! Mình là **Nguyễn Đình Sơn** (hay còn gọi là **Mountain** - *Sơn là Núi* 🏔️), một kỹ sư phần mềm đầy nhiệt huyết đến từ **Hà Nội, Việt Nam 🇻🇳**. Mình là sinh viên ngành Công nghệ Thông tin tại **PTIT**, sở hữu thế mạnh kết hợp giữa kiến trúc hệ thống **Backend**, quy trình tự động hóa **DevOps**, tích hợp ứng dụng **AI** thông minh và tối ưu hóa hiệu năng **SEO/Web**.
 
